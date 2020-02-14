@@ -1,4 +1,4 @@
-#include "ADS7823.h"
+#include <ADS7823.h>
 #include <Wire.h>
 
 #define ADDRESS_ADC     0x48 //  1001 000
